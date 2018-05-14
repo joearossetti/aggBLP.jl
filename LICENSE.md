@@ -1,6 +1,6 @@
 The aggBLP.jl package is licensed under the GNU Public License, Version 3.0+:
 
-> Copyright (c) 2018: joearossetti.
+> Copyright (c) 2018: Joseph Rossetti.
 > This program is free software: you can redistribute it and/or modify
 > it under the terms of the GNU General Public License as published by
 > the Free Software Foundation, either version 3 of the License, or
